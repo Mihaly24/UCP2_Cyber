@@ -2,4 +2,4 @@
 
 VQ404{u07_0hja_bVeb3v0s}
 
-keyword = CIHUY
+key = CIHUY
